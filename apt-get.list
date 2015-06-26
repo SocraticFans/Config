@@ -1,0 +1,20 @@
+# dev env
+screen
+exuberant-ctags
+make
+autoconf
+gdb
+
+# utilities
+tree
+
+# system administration tools
+sockstat
+ifstat
+sysstat
+
+# libraries
+libboost1.48-all-dev
+libprotobuf-dev protobuf-compiler
+lua5.1
+golang

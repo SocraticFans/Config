@@ -1,0 +1,7 @@
+[user]
+	name = lianfeng
+	email = socraticfans@163.com
+[core]
+	editor = vim
+[color]
+	ui = true
